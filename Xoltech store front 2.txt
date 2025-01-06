@@ -1,4 +1,4 @@
-my_custom_computers/
+Xoltech_custom_computers/
 ├── index.html
 ├── products.html
 ├── contact.html
@@ -18,7 +18,7 @@ my_custom_computers/
 </head>
 <body>
     <header>
-        <h1>Welcome to Custom Built Computers</h1>
+        <h1>Welcome to Xoltech Custom Computers</h1>
         <nav>
             <a href="index.html">Home</a>
             <a href="products.html">Products</a>
@@ -29,13 +29,13 @@ my_custom_computers/
     <main>
         <section>
             <h2>Our Mission</h2>
-            <p>We build high-quality, custom-built computers tailored to your needs.</p>
+            <p>We build high-quality, custom-built computers tailored to your needs while providing high quality customer support and repairs.</p>
         </section>
         
         <section>
             <h2>Why Choose Us?</h2>
             <ul>
-                <li>High Performance</li>
+                <li>Quality Builds</li>
                 <li>Custom Configurations</li>
                 <li>Excellent Customer Support</li>
             </ul>
@@ -43,7 +43,7 @@ my_custom_computers/
     </main>
     
     <footer>
-        <p>&copy; 2025 Custom Built Computers. All rights reserved.</p>
+        <p>&copy; 2025 Xoltech Custom Computers. All rights reserved.</p>
     </footer>
 </body>
 </html>
